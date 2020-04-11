@@ -1,12 +1,10 @@
-baseURL = "http://localhost:1314/"
+baseURL = "https://chinglinwen.github.com/"
 languageCode = "en-us"
-#title = "My New Hugo Site"
+title = "Chinglin"
 theme = "hugo-vitae"
 #theme = "gohugo-theme-ananke"
 
-#baseURL= "https://clwen.com/"
-#languageCode = "en-us"
-title = "Chinglin"
+publishDir = "docs"
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
